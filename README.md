@@ -31,5 +31,5 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 Data Model
 
 
-![data_model](data_model.jpeg]
+![data-model](data-model.jpeg]
 
