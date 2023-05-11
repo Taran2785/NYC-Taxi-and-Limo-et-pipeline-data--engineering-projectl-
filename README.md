@@ -31,5 +31,6 @@ Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_t
 Data Model
 
 
-![data-model](data-model.jpeg]
+
+![data_model](https://github.com/Taran2785/NYC-Taxi-and-Limo-et-pipeline-data--engineering-projectl-/assets/100719085/d05eda88-e0b3-431e-8b4a-88907c2f0a7a)
 
